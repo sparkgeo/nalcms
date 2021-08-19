@@ -59,7 +59,7 @@ CEC_PROVIDER = Provider(
     url="http://www.cec.org/north-american-environmental-atlas/",
 )
 
-GSDS = ["30", "250"]
+GSDS = [30, 250]
 
 YEARS = {"30": ["2010", "2015", "2010-2015"], "250": ["2005", "2010", "2005-2010"]}
 
